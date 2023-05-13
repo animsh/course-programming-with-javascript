@@ -1,5 +1,5 @@
 // Task 1
-var dairy = [
+let dairy = [
   "cheese",
   "sour cream",
   "milk",
